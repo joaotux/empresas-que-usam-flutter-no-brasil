@@ -37,6 +37,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
+[UmDesenvolvedor](https://www.umdesenvolvedor.com.br/) | Seringueiras, RO | Flutter | 
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
 [ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
 
